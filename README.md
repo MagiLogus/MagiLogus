@@ -8,13 +8,17 @@
 
 <h2>About Me</h2> 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" alt="Computador iuriCode">
-  <p align="left">
-    Hello! My name is Paulo Henrique Gonçalves de Oliveira, I am 26 years old and I am a Brazilian student who is passionate about technology 
-    
-    and software development. Currently, I am focusing on studying System Development and I am excited about the opportunities that programming
-    
-    can offer.
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px"  align="right" max-width="200px" width="200px" alt="Computador iuriCode">
+  <p>
+   Hello, my name is Paulo Henrique Gonçalves de Oliveira. I'm a 26-year-old Brazilian student who is passionate about technology and software development. Currently, I'm focusing on studying System Development and I'm excited about the opportunities that programming can offer.
+
+   Since I was a child, I've always been fascinated by technology and computers, which led me to pursue a career in the field of information technology. I started studying programming on my own a few years ago, learning the basics of programming logic and some languages like Python and Java.
+
+   Currently, I'm pursuing a degree in System Development and I'm always looking for new knowledge and challenges in the field. My passion for programming comes from the fact that it allows me to create creative solutions and efficiently solve complex problems.
+
+   I'm interested in areas like web development, mobile apps, and artificial intelligence, and I'm always looking for ways to improve my skills in these areas. Additionally, I'm developing my teamwork and communication skills to become a more well-rounded professional capable of handling challenges in the job market.
+
+   I believe that technology is a powerful tool to improve people's lives and help solve problems around the world. I'm excited about the possibilities that the future holds for technology and for my career as a system developer.
   </p>
 </div>
 
@@ -24,8 +28,8 @@
 
 <h2>Information about my GitHub account</h2>
 <div align="center">  
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
 </div>
 
 
