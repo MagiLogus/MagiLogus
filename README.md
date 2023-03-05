@@ -7,11 +7,14 @@
 
 
 <h2>About Me</h2> 
-<div align-itens="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
-
-  <p>
-    Hello! My name is Paulo Henrique Gonçalves de Oliveira, I am 26 years old and I am a Brazilian student who is passionate about technology and software development. Currently, I am focusing on studying System Development and I am excited about the opportunities that programming can offer.
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" alt="Computador iuriCode">
+  <p align="left">
+    Hello! My name is Paulo Henrique Gonçalves de Oliveira, I am 26 years old and I am a Brazilian student who is passionate about technology 
+    
+    and software development. Currently, I am focusing on studying System Development and I am excited about the opportunities that programming
+    
+    can offer.
   </p>
 </div>
 
@@ -21,8 +24,8 @@
 
 <h2>Information about my GitHub account</h2>
 <div align="center">  
-  <img width="30%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
-  <img width="30%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
 </div>
 
 
