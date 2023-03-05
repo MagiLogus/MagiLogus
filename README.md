@@ -27,8 +27,8 @@
 
 <h2>Information about my GitHub account</h2>
 <div align="center">  
-  <img widheight="200px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
 </div>
 
 
