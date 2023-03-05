@@ -8,7 +8,6 @@
 
 <h2>About Me</h2> 
 <div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px"  align="right" max-width="200px" width="200px" alt="Computador iuriCode">
   <p>
    Hello, my name is Paulo Henrique Gonçalves de Oliveira. I'm a 26-year-old Brazilian student who is passionate about technology and software development. Currently, I'm focusing on studying System Development and I'm excited about the opportunities that programming can offer.
 
@@ -28,8 +27,8 @@
 
 <h2>Information about my GitHub account</h2>
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
+  <img widheight="200px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=FFFFFF9&bg_color=D3D3D3"/> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=228B22&FFFFFF&bg_color=D3D3D3"/>
 </div>
 
 
@@ -37,9 +36,11 @@
 
 
 <h2>Skills</h2>
+<div align="center">
 <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
 
 
 
