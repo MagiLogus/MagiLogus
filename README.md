@@ -36,7 +36,7 @@
 
 
 <h2>Skills</h2>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px" target="_blank"></a>
