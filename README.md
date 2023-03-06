@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=175&section=header"/>
+<iframe height="300" style="width: 100%;" scrolling="no" title="SVG Path Builder" src="https://codepen.io/kyechan99/embed/yLeQVBa?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/kyechan99/pen/yLeQVBa">
+  SVG Path Builder</a> by yechan (<a href="https://codepen.io/kyechan99">@kyechan99</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=<+HELLO,+World!+/>;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
@@ -92,4 +96,8 @@
 
 
 
+<<<<<<< HEAD
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=175&section=footer"/>
+=======
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=150&section=footer"/>
+>>>>>>> a3bce00176037859fc344c97a68214b24a61d627
