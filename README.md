@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=175&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=<+HELLO,+World!+/>;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
@@ -66,6 +66,7 @@
 
 
 <h2>Contacts</h2> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=sinon" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/paulohgo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.instagram.com/paulo.oliveira.phgo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"></a>
 <a href = "mailto:paulo.oliveira.phgo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="border-radius: 30px" target="_blank"></a>
@@ -91,4 +92,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=175&section=footer"/>
