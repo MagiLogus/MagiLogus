@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:28A745,25:34D24C,50:6EE37E,75:A2F2B3,100:C8FFE0&height=175&section=header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6EE37E&size=35&center=true&vCenter=true&width=1000&lines=<+HELLO,+World!+/>;<+HELLO,+Coders!+/>;Welcome+to+my+GitHub!+:%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=28a745&size=45&center=true&vCenter=true&width=1000&lines=<+HELLO,+World!+/>;<+HELLO,+Coders!+/>;Welcome+to+my+GitHub!+:%29" />
 </div>
 
 <h2>About Me</h2> 
