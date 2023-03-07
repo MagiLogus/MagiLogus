@@ -25,8 +25,8 @@
 
 <h2>Information about my GitHub account</h2>
 <div align="center">  
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=34D24C&icon_color=34D24C&text_color=FFFFFF9&bg_color=D3D3D3"/> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=34D24C&FFFFFF&bg_color=D3D3D3"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MagiLogus&show_icons=true&count_private=true&hide_border=true&title_color=28A745&icon_color=28A745C&text_color=FFFFFF9&bg_color=D3D3D3"/> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiLogus&layout=compact&hide_border=true&title_color=28A745C&FFFFFF&bg_color=D3D3D3"/>
 </div>
 
 
@@ -74,7 +74,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MagiLogus&bg_color=d3d3d3&color=ffffff&line=228b22&point=555555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MagiLogus&bg_color=d3d3d3&color=ffffff&line=28A745&point=555555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
