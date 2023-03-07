@@ -1,3 +1,4 @@
+<div background-color="black">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:28A745,25:34D24C,50:6EE37E,75:A2F2B3,100:C8FFE0&height=175&section=header" />
 
 <div align="center">
@@ -92,3 +93,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:28A745,25:34D24C,50:6EE37E,75:A2F2B3,100:C8FFE0&height=175&section=footer"/>
+
+</div>
