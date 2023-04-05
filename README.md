@@ -82,7 +82,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MagiLogus}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=MagiLogus&color=3	" /></p> 
 <br>
 </div>
 
