@@ -82,7 +82,9 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=MagiLogus&color=3	" /></p> 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MagiLogus&label=Profile%20Views&color=3&icon=5&pretty=true" />
+</a>
 <br>
 </div>
 
